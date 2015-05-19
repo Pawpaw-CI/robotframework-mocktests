@@ -4,9 +4,9 @@ Resource      common.robot
 
 *** Testcase ***
 Et do adipisicing ipsum ad laborum nulla duis magna ipsum
-    [Tags]          STORY-100   CLASS-A   TODO
-#    Sleep Random    3   5
-#    Fail Random     5
+    [Tags]          STORY-100   CLASS-A   WIP
+    Sleep Random    3   5
+    Fail Random     5
     Pass execution    OK
 
 Consequat minim sint do minim ex aute et duis nostrud qui ea
