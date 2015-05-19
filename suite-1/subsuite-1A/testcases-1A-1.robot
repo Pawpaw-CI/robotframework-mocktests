@@ -10,9 +10,9 @@ Et do adipisicing ipsum ad laborum nulla duis magna ipsum
     Pass execution    OK
 
 Consequat minim sint do minim ex aute et duis nostrud qui ea
-    [Tags]          STORY-101   CLASS-A   TODO
-#    Sleep Random    3   5
-#    Fail Random     5
+    [Tags]          STORY-101   CLASS-A   WIP
+    Sleep Random    3   5
+    Fail Random     5
     Not implemented
 
 Sunt quis fugiat irure enim sint
