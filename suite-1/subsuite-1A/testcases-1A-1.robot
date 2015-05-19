@@ -4,31 +4,31 @@ Resource      common.robot
 
 *** Testcase ***
 Et do adipisicing ipsum ad laborum nulla duis magna ipsum
-    [Tags]          STORY-100   CLASS-A   RC
+    [Tags]          STORY-100   CLASS-A   RELEASED
     Sleep Random    3   5
     Fail Random     5
     Pass execution    OK
 
 Consequat minim sint do minim ex aute et duis nostrud qui ea
-    [Tags]          STORY-101   CLASS-A   WIP
+    [Tags]          STORY-101   CLASS-A   RC
     Sleep Random    3   5
     Fail Random     5
     Not implemented
 
 Sunt quis fugiat irure enim sint
-    [Tags]          STORY-102   CLASS-A   WIP
+    [Tags]          STORY-102   CLASS-A   RC
     Sleep Random    3   5
     Fail Random     5
     Not implemented
 
 Consectetur nulla incididunt tempor nulla non laborum culpa fugiat
-    [Tags]          STORY-103   CLASS-B   TODO
+    [Tags]          STORY-103   CLASS-B   WIP
 #    Sleep Random    3   5
 #    Fail Random     5
     Not implemented
 
 Minim id aute qui nisi sunt et deserunt
-    [Tags]          STORY-104   CLASS-C   TODO
+    [Tags]          STORY-104   CLASS-C   WIP
 #    Sleep Random    3   5
 #    Fail Random     5
     Not implemented
