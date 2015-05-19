@@ -8,3 +8,7 @@ Fail Random
     [Arguments]   ${rate}
     ${random}=    Evaluate    random.randint(0, 99)   random, sys
     Run keyword if   ${random} <= ${rate}   Fail    Failed '${random}' < '${rate}'
+
+
+Not implemented
+    Pass execution    Not Implemented Yet
