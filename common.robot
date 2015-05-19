@@ -7,4 +7,4 @@ Sleep Random
 Fail Random
     [Arguments]   ${rate}
     ${random}=    Evaluate    random.randint(0, 99)   random, sys
-    Run keyword if   ${random} <= ${rate}   Fail    Failed '${random}' > '{rate}'
+    Run keyword if   ${random} <= ${rate}   Fail    Failed '${random}' < '${rate}'
