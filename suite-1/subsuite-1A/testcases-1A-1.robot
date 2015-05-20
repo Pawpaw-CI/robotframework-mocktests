@@ -12,25 +12,25 @@ Et do adipisicing ipsum ad laborum nulla duis magna ipsum
 Consequat minim sint do minim ex aute et duis nostrud qui ea
     [Tags]          STORY-101   CLASS-A   RC
     Sleep Random    3   5
-    Fail Random     5
+    Fail Random     15
     Not implemented
 
 Sunt quis fugiat irure enim sint
     [Tags]          STORY-102   CLASS-A   RC
     Sleep Random    3   5
-    Fail Random     5
+    Fail Random     15
     Not implemented
 
 Consectetur nulla incididunt tempor nulla non laborum culpa fugiat
     [Tags]          STORY-103   CLASS-B   WIP
-#    Sleep Random    3   5
-#    Fail Random     5
+    Sleep Random    3   5
+    Fail Random     30
     Not implemented
 
 Minim id aute qui nisi sunt et deserunt
     [Tags]          STORY-104   CLASS-C   WIP
-#    Sleep Random    3   5
-#    Fail Random     5
+    Sleep Random    3   5
+    Fail Random     30
     Not implemented
 
 Ea ipsum mollit ad laborum incididunt ex irure minim
