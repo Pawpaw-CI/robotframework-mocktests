@@ -4,15 +4,15 @@ Resource      common.robot
 
 *** Testcase ***
 Mollit nulla aliqua aliqua laboris labore exercitation elit ipsum do magna
-    [Tags]          STORY-300   CLASS-A   TODO
-#    Sleep Random    3   5
-#    Fail Random     5
+    [Tags]          STORY-300   CLASS-A   WIP
+    Sleep Random    3   5
+    Fail Random     5
     Not implemented
 
 Qui sunt non sint fugiat Lorem ullamco culpa esse irure voluptate
-    [Tags]          STORY-301   CLASS-A   TODO
-#    Sleep Random    3   5
-#    Fail Random     5
+    [Tags]          STORY-301   CLASS-A   WIP
+    Sleep Random    3   5
+    Fail Random     5
     Not implemented
 
 Ut culpa duis ea qui reprehenderit

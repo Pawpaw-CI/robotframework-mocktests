@@ -4,9 +4,9 @@ Resource      common.robot
 
 *** Testcase ***
 Consectetur dolore ut ea duis cupidatat quis magna ea labore deserunt
-    [Tags]          STORY-500   CLASS-A   TODO
-#    Sleep Random    3   5
-#    Fail Random     5
+    [Tags]          STORY-500   CLASS-A   WIP
+    Sleep Random    3   5
+    Fail Random     5
     Not implemented
 
 Aliqua veniam ipsum adipisicing aute qui occaecat magna ex laborum ea cillum aute
