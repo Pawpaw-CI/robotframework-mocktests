@@ -4,15 +4,15 @@ Resource      common.robot
 
 *** Testcase ***
 Non aute dolor tempor magna exercitation enim reprehenderit duis voluptate cillum amet pariatur
-    [Tags]          STORY-200   CLASS-A   TODO
-#    Sleep Random    3   5
-#    Fail Random     5
+    [Tags]          STORY-200   CLASS-A   WIP
+    Sleep Random    3   5
+    Fail Random     5
     Not implemented
 
 Pariatur ex qui enim labore aliqua deserunt tempor sit
-    [Tags]          STORY-201   CLASS-A   TODO
-#    Sleep Random    3   5
-#    Fail Random     5
+    [Tags]          STORY-201   CLASS-A   WIP
+    Sleep Random    3   5
+    Fail Random     5
     Not implemented
 
 Eu non sit culpa culpa aute exercitation velit elit eiusmod veniam
